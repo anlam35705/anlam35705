@@ -5,4 +5,5 @@
 📫 How to reach me:  
 - Email: [anlam35705@gmail.com](mailto:anlam35705@gmail.com)  
 - LinkedIn: www.linkedin.com/in/andrew-lam-s 
-- GitHub: [github.com/anlam35705](https://github.com/anlam35705)  
+- GitHub: [github.com/anlam35705](https://github.com/anlam35705)
+- Fall AI Studio Project: [/github.com/achandaman/LA2050chatbot](https://github.com/achanaman/LA2050chatbot)
